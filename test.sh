@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # --- Example Usage ---
-# ./test.sh your_problem_folder
-# ./test.sh your_problem_folder --keep-files
+# ./test.sh <path/to/problem_folder>
+# ./test.sh <path/to/problem_folder> --keep-files
 # ---------------------
 
 # --- Argument Parsing ---
